@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @antonyfebriansyah
 - 👀 I’m interested in design
 - 🌱 I’m currently learning webflow and reactJS
-- 💞️ I’m looking to collaborate on dunno
+- 💞️ I’m looking to collaborate or dunno
 - 📫 How to reach me by email via antonyfebriansyah9@gmail.com
 
 <!---
