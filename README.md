@@ -2,8 +2,6 @@
 - 👀 I’m interested in design
 - 🌱 I’m currently learning webflow and reactJS
 - 💞️ I’m looking to collaborate or dunno
-- 📫 How to reach me by email via antonyfebriansyah9@gmail.com
-- 🌐 https://app.solos.work/profile/antony
 
 <!---
 antonyfebriansyah/antonyfebriansyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
